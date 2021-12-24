@@ -1,0 +1,6 @@
+include_directories(.)
+add_executable(xxb List_Seq.c test.c )
+add_executable(xxb1 test1.c)
+add_executable(xxb2 xianxing.c)
+add_executable(xxb3 线性表初始化、插入、删除、顺序查找.c)
+add_executable(xxb4 单链表test.c)
