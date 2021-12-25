@@ -3,5 +3,4 @@
 /Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/CMakeFiles/xianxingbiao.dir
 /Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/CMakeFiles/rebuild_cache.dir
 /Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/CMakeFiles/edit_cache.dir
-/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/CMakeFiles/xxb4.dir
 /Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/CMakeFiles/xxb3.dir

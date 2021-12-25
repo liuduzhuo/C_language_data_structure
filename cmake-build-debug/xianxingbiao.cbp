@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="xianxingbiao"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\xianxingbiao\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xianxingbiao">
+				<Option output="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 xianxingbiao"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xianxingbiao/fast">
+				<Option output="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 xianxingbiao/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xxb3">
+				<Option output="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/xxb3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/duzhuo/Desktop/C_language_data_structure/xianxingbiao/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/Makefile&quot;  VERBOSE=1 xxb3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xxb3/fast">
+				<Option output="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/xxb3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/duzhuo/Desktop/C_language_data_structure/xianxingbiao/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/Makefile&quot;  VERBOSE=1 xxb3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/duzhuo/Desktop/C_language_data_structure/main.c">
+			<Option target="xianxingbiao"/>
+		</Unit>
+		<Unit filename="/Users/duzhuo/Desktop/C_language_data_structure/xianxingbiao/线性表初始化、插入、删除、顺序查找.c">
+			<Option target="xxb3"/>
+		</Unit>
+		<Unit filename="/Users/duzhuo/Desktop/C_language_data_structure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/duzhuo/Desktop/C_language_data_structure/xianxingbiao/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\xianxingbiao\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
