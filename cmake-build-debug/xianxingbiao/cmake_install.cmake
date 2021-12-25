@@ -1,4 +1,4 @@
-# Install script for directory: /Users/duzhuo/Desktop/c语言学习/shujujiegou/xianxingbiao
+# Install script for directory: /Users/duzhuo/Desktop/C_language_data_structure/xianxingbiao
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

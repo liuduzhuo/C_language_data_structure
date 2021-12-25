@@ -1,4 +1,4 @@
-# Install script for directory: /Users/duzhuo/Desktop/c语言学习/shujujiegou
+# Install script for directory: /Users/duzhuo/Desktop/C_language_data_structure
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/xianxingbiao/cmake_install.cmake")
+  include("/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

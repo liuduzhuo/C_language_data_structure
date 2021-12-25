@@ -1,10 +1,7 @@
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/CMakeFiles/xianxingbiao.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/xianxingbiao/CMakeFiles/edit_cache.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/xianxingbiao/CMakeFiles/xxb3.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/xianxingbiao/CMakeFiles/xxb2.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/xianxingbiao/CMakeFiles/rebuild_cache.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/xianxingbiao/CMakeFiles/xxb4.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/xianxingbiao/CMakeFiles/xxb1.dir
-/Users/duzhuo/Desktop/c语言学习/shujujiegou/cmake-build-debug/xianxingbiao/CMakeFiles/xxb.dir
+/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/CMakeFiles/xianxingbiao.dir
+/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/CMakeFiles/rebuild_cache.dir
+/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/CMakeFiles/edit_cache.dir
+/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/CMakeFiles/xxb4.dir
+/Users/duzhuo/Desktop/C_language_data_structure/cmake-build-debug/xianxingbiao/CMakeFiles/xxb3.dir
